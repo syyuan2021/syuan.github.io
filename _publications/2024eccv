@@ -1,0 +1,13 @@
+---
+title: "Learning Multimodal Latent Generative Models with Energy-Based Prior"
+collection: publications
+category: conferences
+permalink: /publication/2024eccv
+excerpt: 'Multimodal models have gained increasing popularity recently. Many works have been proposed to learn the representations for different modalities. The representation can learn shared information from these domains, leading to increased and coherent joint and cross-generation. However, these works mainly considered standard Gaussian or Laplacian as their prior distribution. It can be challenging for the uni-modal and non-informative distribution to capture all the information from multiple data types. Meanwhile, energy-based models (EBM) have shown their effectiveness in multiple tasks due to their expressiveness and flexibility. But its capacity has yet to be discovered for the multimodal generative models. In this paper, we propose a novel framework to train multimodal latent generative models together with the energy-based models. The proposed method can lead to more expressive and informative prior which can better capture the information within multiple modalities. Our experiments showed that our model is effective and can increase generation coherence and latent classification for different multimodal datasets.'
+date: 2024-02-17
+venue: 'GitHub Journal of Bugs'
+paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/12427.pdf)'
+citation: 'Shiyu Y., Han, T. (2024). &quot;Learning Multimodal Latent Generative Models with Energy-Based Prior.&quot; <i>European Conference on Computer Vision</i>.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
