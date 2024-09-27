@@ -21,7 +21,7 @@ repository               : "syyuan2021/multimodal_shared_rep"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "shiyu.png"
   name             : "Shiyu Yuan"
   pronouns         : "She/her"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
