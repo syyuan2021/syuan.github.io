@@ -27,7 +27,6 @@ Skills
 ======
 * Programming Languages: Python, Matlab
 * Deep Learning Tools: Pytorch, Jax, Tensorflow, Huggingface
-* Skill 3
 
 Language Proficiencies
 ======
